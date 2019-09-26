@@ -1,0 +1,25 @@
+{
+  "name": "dojo-1-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-londrina/dojo-1-jest.git"
+  },
+  "author": "JS Londrina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-londrina/dojo-1-jest/issues"
+  },
+  "homepage": "https://github.com/js-londrina/dojo-1-jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
